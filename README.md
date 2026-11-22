@@ -4,7 +4,7 @@ Website statis siap dipublikasikan menggunakan GitHub Pages.
 
 ## Isi repository
 - `index.html` — halaman utama website.
-- `call-wash-logo.jpg` — logo CALL WASH yang dipakai sebagai gambar utama.
+- `assets/call-wash-logo.jpg` — logo CALL WASH yang dipakai sebagai gambar utama.
 - `.nojekyll` — menonaktifkan pemrosesan Jekyll untuk file statis.
 
 ## Cara menerbitkan website (GitHub Free)
@@ -25,9 +25,9 @@ Website statis siap dipublikasikan menggunakan GitHub Pages.
 13. Tunggu proses build/deploy selesai. Alamat website akan muncul di halaman **Settings → Pages**.
 
 Untuk repository bernama `call-wash-makassar`, alamat umumnya:
-`https://CALLWASH.github.io/call-wash-makassar/`
+`https://USERNAME.github.io/call-wash-makassar/`
 
-Ganti `CALLWASH` dengan username GitHub Anda. Jika nama repository berbeda, alamat URL juga akan berbeda.
+Ganti `USERNAME` dengan username GitHub Anda. Jika nama repository berbeda, alamat URL juga akan berbeda.
 
 ## Catatan penting
 - Website ini sudah berupa HTML/CSS statis sehingga dapat dipublikasikan di GitHub Pages tanpa PHP atau database.
