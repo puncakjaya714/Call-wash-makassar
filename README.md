@@ -25,9 +25,9 @@ Website statis siap dipublikasikan menggunakan GitHub Pages.
 13. Tunggu proses build/deploy selesai. Alamat website akan muncul di halaman **Settings → Pages**.
 
 Untuk repository bernama `call-wash-makassar`, alamat umumnya:
-`https://USERNAME.github.io/call-wash-makassar/`
+`https://CALLWASH.github.io/call-wash-makassar/`
 
-Ganti `USERNAME` dengan username GitHub Anda. Jika nama repository berbeda, alamat URL juga akan berbeda.
+Ganti `CALLWASH` dengan username GitHub Anda. Jika nama repository berbeda, alamat URL juga akan berbeda.
 
 ## Catatan penting
 - Website ini sudah berupa HTML/CSS statis sehingga dapat dipublikasikan di GitHub Pages tanpa PHP atau database.
