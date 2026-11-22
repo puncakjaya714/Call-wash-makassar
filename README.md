@@ -4,7 +4,7 @@ Website statis siap dipublikasikan menggunakan GitHub Pages.
 
 ## Isi repository
 - `index.html` — halaman utama website.
-- `assets/call-wash-logo.jpg` — logo CALL WASH yang dipakai sebagai gambar utama.
+- `call-wash-logo.jpg` — logo CALL WASH yang dipakai sebagai gambar utama.
 - `.nojekyll` — menonaktifkan pemrosesan Jekyll untuk file statis.
 
 ## Cara menerbitkan website (GitHub Free)
